@@ -1,3 +1,9 @@
 [submodule "hellen-one"]
 	path = hellen-one
 	url = https://github.com/andreika-git/hellen-one
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/rusefi/kicad-libraries
+[submodule "kicad-libraries-private"]
+	path = kicad-libraries-private
+	url = https://github.com/rusefi/kicad-libraries-private.git
