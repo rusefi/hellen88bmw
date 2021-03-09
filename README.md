@@ -17,4 +17,5 @@ from https://github.com/rusefi/hw_88_bmw we keep
    2) ignition coil drivers (we actually add two more - hw_88_bmw was a 6 cylinder board, we make a 8 cylinder ECU)
    3) MAP sensor position
    4) keep SD card somewhere
+   5) 88 jumpers
   
