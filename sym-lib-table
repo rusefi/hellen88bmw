@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "motronic_88pin_STS")(type "KiCad")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/kicad-libraries-private/motronic_88pin_STS.kicad_sym")(options "")(descr ""))
+  (lib (name "MPX-4_MAP")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/kicad-libraries-private/MPX-4_MAP.lib")(options "")(descr ""))
+  (lib (name "molex_48pin_MRE")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/kicad-libraries-private/molex_48pin_MRE.lib")(options "")(descr ""))
+)
