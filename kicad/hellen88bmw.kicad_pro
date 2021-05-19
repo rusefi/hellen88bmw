@@ -119,7 +119,9 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.4
       ],
       "via_dimensions": [
         {
@@ -571,7 +573,7 @@
   },
   "sheets": [
     [
-      "0d02d824-434b-4f8c-b8e7-a149ecdc35dd",
+      "74ff2e70-e18b-40e9-bdae-cae5ad2c5537",
       ""
     ]
   ],

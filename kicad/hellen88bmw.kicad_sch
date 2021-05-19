@@ -10256,11 +10256,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4b1b25d5-bbaa-448e-ac7e-6230adf54968)
   )
-  (label "CRANK+" (at 101.6 312.42 180)
+  (label "IN_CRANK+" (at 101.6 312.42 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b33f9be0-c11b-4219-b0d1-367934a54b37)
   )
-  (label "CRANK-" (at 101.6 314.96 180)
+  (label "IN_CRANK-" (at 101.6 314.96 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8f6dea58-df99-4655-bb3a-3f52fefa34e0)
   )
@@ -10332,7 +10332,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6ea4d08c-b150-49d1-a313-2266e9d5e183)
   )
-  (label "CRANK" (at 149.86 314.96 0)
+  (label "IN_CRANK" (at 149.86 314.96 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7b4ef15b-bb89-4732-bf7d-43c62dfa8874)
   )
@@ -13113,7 +13113,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x01") (at 204.47 369.57 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 38db208f-6a11-4100-a872-f7e228085d88)
-    (property "Reference" "KNOCK_RAW?" (id 0) (at 204.47 367.03 0)
+    (property "Reference" "KNOCK_RAW1" (id 0) (at 204.47 367.03 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IN_KNOCK1_RAW" (id 1) (at 204.47 367.03 0)
@@ -14319,7 +14319,7 @@
   (symbol (lib_id "hellen-one-common:Res") (at 118.11 391.16 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 40e5e4bd-db91-429a-aa04-1aafd1b4ce09)
-    (property "Reference" "R?" (id 0) (at 119.38 386.9498 0))
+    (property "Reference" "R5" (id 0) (at 119.38 386.9498 0))
     (property "Value" "DNP" (id 1) (at 123.19 387.9785 0))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 121.92 394.97 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -14340,7 +14340,7 @@
   (symbol (lib_id "hellen-one-common:Res") (at 118.11 397.51 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 08b25796-70dd-45ec-b49e-9604f33474f7)
-    (property "Reference" "R?" (id 0) (at 119.38 393.2998 0))
+    (property "Reference" "R6" (id 0) (at 119.38 393.2998 0))
     (property "Value" "DNP" (id 1) (at 123.19 394.3285 0))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 121.92 401.32 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -17264,7 +17264,7 @@
     (property "Value" "UB-20PMFP-LC7002" (id 1) (at 132.08 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (id 2) (at 118.11 64.77 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical" (id 2) (at 118.11 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 64.77 0)
@@ -18404,7 +18404,7 @@
       (reference "J1") (unit 1) (value "920-462A2021Y10101") (footprint "rusefi_lib_private:USB-MINI-B-VERTICAL")
     )
     (path "/b7ba4c3d-5d4c-4bf5-b353-2713dfc28ba6"
-      (reference "J2") (unit 1) (value "UB-20PMFP-LC7002") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "UB-20PMFP-LC7002") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000060bde589"
       (reference "J3") (unit 1) (value "Micro_SD_Card") (footprint "rusefi_lib_private:693072010801")
@@ -18716,7 +18716,7 @@
       (reference "JP88") (unit 1) (value "Jumper_2_Open") (footprint "rusefi_lib_private:SM0805_jumper")
     )
     (path "/38db208f-6a11-4100-a872-f7e228085d88"
-      (reference "KNOCK_RAW?") (unit 1) (value "IN_KNOCK1_RAW") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
+      (reference "KNOCK_RAW1") (unit 1) (value "IN_KNOCK1_RAW") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical")
     )
     (path "/d2da829a-6cb9-4cba-934a-cec3dc1f31ab"
       (reference "M1") (unit 1) (value "Module-power12-0.1") (footprint "rusefi_lib_private:MOD_HELLEN_POWER_12")
@@ -18964,11 +18964,11 @@
     (path "/00000000-0000-0000-0000-000060df6aa2"
       (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/08b25796-70dd-45ec-b49e-9604f33474f7"
-      (reference "R?") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
     (path "/40e5e4bd-db91-429a-aa04-1aafd1b4ce09"
-      (reference "R?") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R5") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/08b25796-70dd-45ec-b49e-9604f33474f7"
+      (reference "R6") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/bbd8a8a3-1884-44de-bae5-46a536e539ec"
       (reference "RN1") (unit 1) (value "470") (footprint "Resistor_SMD:R_Array_Concave_4x0603")
