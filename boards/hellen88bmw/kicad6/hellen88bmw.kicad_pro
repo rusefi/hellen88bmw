@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -389,8 +389,6 @@
           "/CRANK-",
           "/GND_SENS",
           "/IAT_AT2",
-          "/KNOCK_1_3",
-          "/KNOCK_4_5",
           "/MAP_AV1",
           "/NEUTRAL_IN_AT3"
         ],
@@ -435,13 +433,7 @@
           "/COIL_3",
           "/COIL_4",
           "/COIL_5",
-          "/COIL_6",
-          "/GP5",
-          "/GP6",
-          "/IGN_1",
-          "/IGN_2",
-          "/IGN_3",
-          "/IGN_4"
+          "/COIL_6"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -573,7 +565,7 @@
   },
   "sheets": [
     [
-      "74ff2e70-e18b-40e9-bdae-cae5ad2c5537",
+      "078b5c55-a884-41a3-a5af-39a648a3cc05",
       ""
     ]
   ],
