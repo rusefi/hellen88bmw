@@ -58,7 +58,7 @@
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
-        "version": 1
+        "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
@@ -113,10 +113,7 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_clearance": 0.051,
-        "solder_mask_min_width": 0.25,
-        "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -315,6 +312,7 @@
     ],
     "rule_severities": {
       "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
       "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
@@ -362,8 +360,8 @@
         "microvia_diameter": 0.3048,
         "microvia_drill": 0.1016,
         "name": "Default",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.6,
         "via_diameter": 0.8128,
         "via_drill": 0.4064,
@@ -380,20 +378,15 @@
         "microvia_drill": 0.1016,
         "name": "Analog_In",
         "nets": [
-          "/AC_IN_AT4",
-          "/AC_PRESS",
           "/BARO_AV5",
           "/CAM",
-          "/CLT_AT1",
           "/CRANK+",
           "/CRANK-",
           "/GND_SENS",
-          "/IAT_AT2",
-          "/MAP_AV1",
-          "/NEUTRAL_IN_AT3"
+          "/MAP_AV1"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.254,
         "via_diameter": 0.8128,
         "via_drill": 0.4064,
@@ -410,8 +403,8 @@
         "microvia_drill": 0.1524,
         "name": "High_Side",
         "nets": [],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.3048,
         "via_diameter": 1.27,
         "via_drill": 0.635,
@@ -435,8 +428,8 @@
           "/COIL_5",
           "/COIL_6"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.4572,
         "via_diameter": 1.27,
         "via_drill": 0.635,
@@ -460,8 +453,8 @@
           "/INJ5",
           "/INJ6"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.4572,
         "via_diameter": 1.27,
         "via_drill": 0.635,
@@ -479,15 +472,11 @@
         "name": "Low_Side",
         "nets": [
           "/AC_OUT_AV10",
-          "/FUEL_RELAY_GP1",
-          "/ICV_CLOSE_LS1",
           "/IDLE_LS2",
-          "/INTAKE_CHRG_VLV",
-          "/MAIN_RELAY",
-          "/MIL_GP3"
+          "/MAIN_RELAY"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.3048,
         "via_diameter": 1.27,
         "via_drill": 0.635,
@@ -504,14 +493,12 @@
         "microvia_drill": 0.1524,
         "name": "Pwr",
         "nets": [
-          "/12V_KEY",
-          "/12_MAIN_RELAY",
           "/5V_SENS1",
           "/5V_SENS2",
           "GND"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 0)",
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.4572,
         "via_diameter": 1.27,
         "via_drill": 0.635,
@@ -519,7 +506,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -535,6 +522,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+    "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
       "default_junction_size": 36.0,
@@ -542,6 +530,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -556,6 +545,13 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -565,7 +561,7 @@
   },
   "sheets": [
     [
-      "d7698b61-c96f-408f-a4cc-568fb4ac1abc",
+      "b36a220d-d25c-4142-873c-bb8e1b6826c8",
       ""
     ]
   ],
