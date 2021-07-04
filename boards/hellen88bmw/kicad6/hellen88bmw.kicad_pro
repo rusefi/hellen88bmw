@@ -118,7 +118,9 @@
       "track_widths": [
         0.0,
         0.2,
-        0.4
+        0.4,
+        0.8,
+        1.3
       ],
       "via_dimensions": [
         {
@@ -471,8 +473,6 @@
         "microvia_drill": 0.1524,
         "name": "Low_Side",
         "nets": [
-          "/AC_OUT_AV10",
-          "/IDLE_LS2",
           "/MAIN_RELAY"
         ],
         "pcb_color": "rgb(0, 0, 0)",
