@@ -380,12 +380,8 @@
         "microvia_drill": 0.1016,
         "name": "Analog_In",
         "nets": [
-          "/BARO_AV5",
           "/CAM",
-          "/CRANK+",
-          "/CRANK-",
-          "/GND_SENS",
-          "/MAP_AV1"
+          "/GND_SENS"
         ],
         "pcb_color": "rgb(0, 0, 0)",
         "schematic_color": "rgb(0, 0, 0)",
@@ -493,7 +489,6 @@
         "microvia_drill": 0.1524,
         "name": "Pwr",
         "nets": [
-          "/5V_SENS1",
           "/5V_SENS2",
           "GND"
         ],
