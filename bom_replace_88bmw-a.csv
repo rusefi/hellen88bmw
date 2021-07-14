@@ -1,0 +1,10 @@
+# remove the jumper connection from VCC_PP1 to +5V: we need +12v power supply for push-pull outputs.
+R309,
+
+# remove +5V pull-ups from SPI1, because we use it with +3.3v accelerometer
+R103,
+R105,
+
+# remove jumper resistor connecting BOOT1 with A22 input line, because we use STM32F4
+R131,
+
