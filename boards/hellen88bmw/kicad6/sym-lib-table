@@ -1,6 +1,5 @@
 (sym_lib_table
   (lib (name "molex_48pin_MRE")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/kicad-libraries-private/molex_48pin_MRE.lib")(options "")(descr ""))
-  (lib (name "LIS2DW12TR")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/kicad-libraries-private/LIS2DW12TR.lib")(options "")(descr ""))
   (lib (name "motronic_88pin_STS")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/kicad-libraries-private/motronic_88pin_STS.lib")(options "")(descr ""))
   (lib (name "MPX-4_MAP")(type "Legacy")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/kicad-libraries-private/MPX-4_MAP.lib")(options "")(descr ""))
   (lib (name "hellen-one-mcu-000.4")(type "KiCad")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/hellen-one/modules/mcu/0.4/mcu.kicad_sym")(options "")(descr ""))
@@ -13,4 +12,6 @@
   (lib (name "hellen-one-knock-0.1")(type "KiCad")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/hellen-one/modules/knock/0.1/knock.kicad_sym")(options "")(descr ""))
   (lib (name "hellen-one-ign8-0.1")(type "KiCad")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/hellen-one/modules/ign8/0.1/ign8.kicad_sym")(options "")(descr ""))
   (lib (name "hellen-one-can-0.1")(type "KiCad")(uri "D:/GoogleDrive/MSDLab/KiCad/freelance/rusEFIGIT/hellen88bmw/hellen-one/modules/can/0.1/can.kicad_sym")(options "")(descr ""))
+  (lib (name "L6205PD")(type "KiCad")(uri "${KIPRJMOD}/L6205PD.kicad_sym")(options "")(descr ""))
+  (lib (name "LIS2DW12TR")(type "KiCad")(uri "${KIPRJMOD}/LIS2DW12TR.kicad_sym")(options "")(descr ""))
 )
