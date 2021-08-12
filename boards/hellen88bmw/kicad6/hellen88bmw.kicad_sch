@@ -19638,7 +19638,7 @@
     (in_bom yes) (on_board yes)
     (uuid 837f573b-b69f-444b-af7b-cf02f9bc2883)
     (property "Reference" "M5" (id 0) (at 787.4 496.57 0))
-    (property "Value" "Module-power5-0.1" (id 1) (at 796.29 499.11 0))
+    (property "Value" "Module-power5-0.2" (id 1) (at 796.29 499.11 0))
     (property "Footprint" "hellen-one-power5-0.1:power5" (id 2) (at 765.81 474.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -20875,7 +20875,7 @@
       (reference "M4") (unit 1) (value "Module-can-0.1") (footprint "hellen-one-can-0.1:can")
     )
     (path "/837f573b-b69f-444b-af7b-cf02f9bc2883"
-      (reference "M5") (unit 1) (value "Module-power5-0.1") (footprint "hellen-one-power5-0.1:power5")
+      (reference "M5") (unit 1) (value "Module-power5-0.2") (footprint "hellen-one-power5-0.1:power5")
     )
     (path "/eab6451a-c287-4aeb-9352-a8447ab4d341"
       (reference "M6") (unit 1) (value "Module-vr-0.1") (footprint "hellen-one-vr-0.1:vr")
