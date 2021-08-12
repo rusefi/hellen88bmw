@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw\boards\hellen88bmw\kicad6\hellen88bmw.kicad_sch</source>
-    <date>04/08/2021 01:07:02</date>
+    <date>12/08/2021 18:24:35</date>
     <tool>Eeschema (5.99.0-11247-g3f6811f413)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -308,403 +308,434 @@
       <tstamps>80bb7ada-9967-488b-b31e-c81fb2d184cd</tstamps>
     </comp>
     <comp ref="D1">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9950dd24-e4f8-4cef-a3a6-39fdc149e9f8</tstamps>
     </comp>
     <comp ref="D2">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>495270b3-273a-46ca-9710-bffa840ef15f</tstamps>
     </comp>
     <comp ref="D3">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3202191f-586f-4e0c-abc4-e60d2b4741fb</tstamps>
     </comp>
     <comp ref="D4">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e7e6a86-661f-47b5-9b76-2f3a4deb0fe9</tstamps>
     </comp>
     <comp ref="D5">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a6e4cbc3-6a6c-4528-903c-7569216f349e</tstamps>
     </comp>
     <comp ref="D6">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9737dbc-5bb7-4721-a6dc-65df91653c57</tstamps>
     </comp>
     <comp ref="D7">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>da609b85-a5a2-4efd-8ab8-b8782e399399</tstamps>
     </comp>
     <comp ref="D8">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a54637f3-f545-4c9e-b824-9e67d2eec2b8</tstamps>
     </comp>
     <comp ref="D9">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>be7eeebc-47f1-47b1-b9e4-f71343c7cfe4</tstamps>
     </comp>
     <comp ref="D10">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>552f39ac-d95d-4809-87ff-2475ff40ce26</tstamps>
     </comp>
     <comp ref="D11">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a65ac888-79d0-495e-8f89-aa618aded279</tstamps>
     </comp>
     <comp ref="D12">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e1825b7-ec85-4a36-8cdc-a5837dc68a75</tstamps>
     </comp>
     <comp ref="D13">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5a78bcae-bacb-44a2-ae14-d03ee18692ef</tstamps>
     </comp>
     <comp ref="D14">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7a3f346-cddf-443d-884e-87400072c417</tstamps>
     </comp>
     <comp ref="D15">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b85d272a-742a-4edb-8d2f-f9fb5b1cf28c</tstamps>
     </comp>
     <comp ref="D16">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>56121589-9e2b-4aec-b8bc-22075cf8023a</tstamps>
     </comp>
     <comp ref="D17">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>375136f9-1762-4aab-860e-eaa6ebd9236e</tstamps>
     </comp>
     <comp ref="D18">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bbd92135-af85-4426-99bf-bdbc861b76a9</tstamps>
     </comp>
     <comp ref="D19">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f4176bb-dd47-4ce5-825e-aeec891cd9bf</tstamps>
     </comp>
     <comp ref="D20">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>51dfd1d3-2336-45b3-b0e3-4df3779cc9d9</tstamps>
     </comp>
     <comp ref="D21">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>70aa564c-0afe-4c6a-b0d1-e61b61925058</tstamps>
     </comp>
     <comp ref="D22">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>002a3aed-516e-438a-a78b-923aefd42492</tstamps>
     </comp>
     <comp ref="D23">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>adaf19b2-7232-4bbe-9aac-94db32fc4ba8</tstamps>
     </comp>
     <comp ref="D24">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>04044b20-98ff-45d6-85bb-25f133146a19</tstamps>
     </comp>
     <comp ref="D25">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8692e35a-b549-45a8-81bf-d5c82267fcf3</tstamps>
     </comp>
     <comp ref="D26">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>65c84f82-79d1-48ca-970c-efaef5999afb</tstamps>
     </comp>
     <comp ref="D27">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fbc340ce-b1d9-43e6-88ab-44b4d4d46b07</tstamps>
     </comp>
     <comp ref="D28">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>15f49ca5-f218-4081-82af-bd78566f8cd3</tstamps>
     </comp>
     <comp ref="D29">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a9a3901d-cc76-4491-812e-277d12cecbb3</tstamps>
     </comp>
     <comp ref="D30">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>74b2b2b4-5cec-4ce4-b095-32a901d4c26b</tstamps>
     </comp>
     <comp ref="D31">
-      <value>LED</value>
+      <value>LED-BLUE-0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C72041"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -968,7 +999,11 @@
     <comp ref="JP2">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -977,7 +1012,11 @@
     <comp ref="JP3">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -986,7 +1025,11 @@
     <comp ref="JP4">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -995,7 +1038,11 @@
     <comp ref="JP5">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1004,7 +1051,11 @@
     <comp ref="JP7">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1013,7 +1064,11 @@
     <comp ref="JP14">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1022,7 +1077,11 @@
     <comp ref="JP16">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1031,7 +1090,11 @@
     <comp ref="JP17">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1040,7 +1103,11 @@
     <comp ref="JP20">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1049,7 +1116,11 @@
     <comp ref="JP21">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1058,7 +1129,11 @@
     <comp ref="JP22">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1067,7 +1142,11 @@
     <comp ref="JP23">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1076,7 +1155,11 @@
     <comp ref="JP24">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1085,7 +1168,11 @@
     <comp ref="JP25">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1094,7 +1181,11 @@
     <comp ref="JP26">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1103,7 +1194,11 @@
     <comp ref="JP27">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1112,7 +1207,11 @@
     <comp ref="JP29">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1121,7 +1220,11 @@
     <comp ref="JP31">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1130,7 +1233,11 @@
     <comp ref="JP32">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1139,7 +1246,11 @@
     <comp ref="JP33">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1148,7 +1259,11 @@
     <comp ref="JP35">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1157,7 +1272,11 @@
     <comp ref="JP41">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1166,7 +1285,11 @@
     <comp ref="JP42">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1175,7 +1298,11 @@
     <comp ref="JP43">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1184,7 +1311,11 @@
     <comp ref="JP44">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1193,7 +1324,11 @@
     <comp ref="JP46">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1202,7 +1337,11 @@
     <comp ref="JP47">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1211,7 +1350,11 @@
     <comp ref="JP49">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1220,7 +1363,11 @@
     <comp ref="JP50">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1229,7 +1376,11 @@
     <comp ref="JP51">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1238,7 +1389,11 @@
     <comp ref="JP52">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1247,7 +1402,11 @@
     <comp ref="JP54">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1256,7 +1415,11 @@
     <comp ref="JP56">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1265,7 +1428,11 @@
     <comp ref="JP59">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1274,7 +1441,11 @@
     <comp ref="JP73">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1283,7 +1454,11 @@
     <comp ref="JP77">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1292,7 +1467,11 @@
     <comp ref="JP78">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1301,7 +1480,11 @@
     <comp ref="JP85">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1310,7 +1493,11 @@
     <comp ref="JP86">
       <value>Jumper_2_Open</value>
       <footprint>rusefi_lib:SM0805_jumper</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1832,7 +2019,11 @@
     <comp ref="Q1">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1841,7 +2032,11 @@
     <comp ref="Q2">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1850,7 +2045,11 @@
     <comp ref="Q3">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1859,7 +2058,11 @@
     <comp ref="Q4">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1868,7 +2071,11 @@
     <comp ref="Q5">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1890,7 +2097,11 @@
     <comp ref="Q7">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1899,7 +2110,11 @@
     <comp ref="Q8">
       <value>NGD8201AN</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <fields>
+        <field name="LCSC">C151649</field>
+      </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
+      <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2156,7 +2371,11 @@
     <comp ref="R27">
       <value>DNP</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Comment">0</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Comment" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2165,11 +2384,8 @@
     <comp ref="R28">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <fields>
-        <field name="LCSC">C25803</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C25803"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2178,24 +2394,18 @@
     <comp ref="R29">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <fields>
-        <field name="LCSC">C25804</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C25804"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e911da32-2106-4edd-8619-3849cf140681</tstamps>
     </comp>
     <comp ref="R30">
-      <value>100R</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <fields>
-        <field name="LCSC">C22775</field>
-      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C22775"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
