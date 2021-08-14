@@ -1,5 +1,4 @@
 Comment,Designator,Footprint,LCSC Part #
-"Motronic_88pin","*ref1","88pin_STS",""
 "100nF","C1","C0402","C105882"
 "100nF","C2","C0402","C105882"
 "100nF","C3","C0402","C105882"
@@ -78,6 +77,8 @@ Comment,Designator,Footprint,LCSC Part #
 "LED-RED-0603","D31","LED-0603","C2286"
 "1N4148WS","D32","D_SOD-323","C2128"
 "1N4148WS","D33","D_SOD-323","C2128"
+"Conn_01x01","G1","LOGO",""
+"Conn_01x01","G2","LOGO",""
 "MountingHole","H1","MountingHole_4.3mm_M4_DIN965",""
 "MountingHole","H2","MountingHole_4.3mm_M4_DIN965",""
 "920-462A2021Y10101","J1","USB-MINI-B-VERTICAL","C13453"
@@ -198,6 +199,7 @@ Comment,Designator,Footprint,LCSC Part #
 "P","P4","Pin_D1.0mm_L10.0mm",""
 "P","P5","Pin_D1.0mm_L10.0mm",""
 "P","P6","Pin_D1.0mm_L10.0mm",""
+"Motronic_88pin","PP1","88pin_STS",""
 "NGD8201AN","Q1","DPAK","C151649"
 "NGD8201AN","Q2","DPAK","C151649"
 "NGD8201AN","Q3","DPAK","C151649"

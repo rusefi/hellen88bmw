@@ -15328,6 +15328,42 @@
     (pin "1" (uuid 7bbf06a5-c8ea-4b36-ae2f-3d9da305af24))
   )
 
+  (symbol (lib_id "Connector_Generic:Conn_01x01") (at 581.66 558.038 90) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 16efd94d-045d-4f40-92e4-a8538f713373)
+    (property "Reference" "G1" (id 0) (at 584.2 558.7999 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "Conn_01x01" (id 1) (at 584.2 561.3399 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "footprints:LOGO" (id 2) (at 581.66 558.038 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 581.66 558.038 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d24948c8-eae4-404a-ad87-667ce161775d))
+  )
+
+  (symbol (lib_id "Connector_Generic:Conn_01x01") (at 598.678 558.038 90) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 9fd786cd-127c-4de7-a85c-e114caa86ada)
+    (property "Reference" "G2" (id 0) (at 601.218 558.7999 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "Conn_01x01" (id 1) (at 601.218 561.3399 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "rusefi_lib:LOGO" (id 2) (at 598.678 558.038 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 598.678 558.038 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f762431f-8fb5-4734-9e10-477f06b6ce0e))
+  )
+
   (symbol (lib_id "Connector_Generic:Conn_01x01") (at 605.79 369.57 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fe3922ba-7e31-462f-8548-2a0ab619fe76)
@@ -19533,7 +19569,7 @@
   (symbol (lib_id "motronic_88pin_STS:Motronic_88pin") (at 33.02 148.59 90) (mirror x) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f844f8b)
-    (property "Reference" "*ref1" (id 0) (at 18.669 182.5498 0))
+    (property "Reference" "PP1" (id 0) (at 18.669 182.5498 0))
     (property "Value" "Motronic_88pin" (id 1) (at 20.9804 182.5498 0))
     (property "Footprint" "rusefi_lib_private:88pin_STS" (id 2) (at 21.59 183.515 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -19573,7 +19609,7 @@
   (symbol (lib_id "motronic_88pin_STS:Motronic_88pin") (at 33.02 71.12 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f7b99ce)
-    (property "Reference" "*ref1" (id 0) (at 18.669 105.0798 0))
+    (property "Reference" "PP1" (id 0) (at 18.669 105.0798 0))
     (property "Value" "Motronic_88pin" (id 1) (at 20.9804 105.0798 0))
     (property "Footprint" "rusefi_lib_private:88pin_STS" (id 2) (at 21.59 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -19614,7 +19650,7 @@
   (symbol (lib_id "motronic_88pin_STS:Motronic_88pin") (at 33.02 222.25 90) (mirror x) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f83acfe)
-    (property "Reference" "*ref1" (id 0) (at 18.669 287.401 0))
+    (property "Reference" "PP1" (id 0) (at 18.669 287.401 0))
     (property "Value" "Motronic_88pin" (id 1) (at 20.9804 287.401 0))
     (property "Footprint" "rusefi_lib_private:88pin_STS" (id 2) (at 21.59 257.175 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -20625,15 +20661,6 @@
     (path "/5875fb91-f273-427a-8e66-809660365e04"
       (reference "#PWR0171") (unit 1) (value "V5A") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005f7b99ce"
-      (reference "*ref1") (unit 1) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
-    )
-    (path "/00000000-0000-0000-0000-00005f844f8b"
-      (reference "*ref1") (unit 2) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
-    )
-    (path "/00000000-0000-0000-0000-00005f83acfe"
-      (reference "*ref1") (unit 3) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
-    )
     (path "/00000000-0000-0000-0000-00006009e992"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -20795,6 +20822,12 @@
     )
     (path "/615f128a-633c-4989-8047-3bbad035f3d3"
       (reference "D33") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323")
+    )
+    (path "/16efd94d-045d-4f40-92e4-a8538f713373"
+      (reference "G1") (unit 1) (value "Conn_01x01") (footprint "footprints:LOGO")
+    )
+    (path "/9fd786cd-127c-4de7-a85c-e114caa86ada"
+      (reference "G2") (unit 1) (value "Conn_01x01") (footprint "rusefi_lib:LOGO")
     )
     (path "/00000000-0000-0000-0000-000060dbb771"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
@@ -21179,6 +21212,15 @@
     )
     (path "/c460f24f-20f1-4eab-98f7-3976e80ade92"
       (reference "P6") (unit 1) (value "P") (footprint "Connector_Pin:Pin_D1.0mm_L10.0mm")
+    )
+    (path "/00000000-0000-0000-0000-00005f7b99ce"
+      (reference "PP1") (unit 1) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
+    )
+    (path "/00000000-0000-0000-0000-00005f844f8b"
+      (reference "PP1") (unit 2) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
+    )
+    (path "/00000000-0000-0000-0000-00005f83acfe"
+      (reference "PP1") (unit 3) (value "Motronic_88pin") (footprint "rusefi_lib_private:88pin_STS")
     )
     (path "/00000000-0000-0000-0000-00005fc69d39"
       (reference "Q1") (unit 1) (value "NGD8201AN") (footprint "Package_TO_SOT_SMD:TO-252-2")
