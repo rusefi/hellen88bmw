@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>14/08/2021 01:59:09</date>
+    <date>14/08/2021 15:00:16</date>
     <tool>Eeschema (5.99.0-11247-g3f6811f413)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -802,10 +802,10 @@
       <value>UB-20PMFP-LC7002</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical</footprint>
       <fields>
-        <field name="LCSC">NA</field>
+        <field name="LCSC">DNP</field>
       </fields>
       <libsource lib="hellen-one-common" part="USB_B_Mini" description="USB Mini Type B connector"/>
-      <property name="LCSC" value="NA"/>
+      <property name="LCSC" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1620,9 +1620,9 @@
       <tstamps>0e968dcd-5249-4184-821f-b500bd5a00dd</tstamps>
     </comp>
     <comp ref="M11">
-      <value>Module-mcu-0.4</value>
-      <footprint>hellen-one-mcu-0.4:mcu</footprint>
-      <libsource lib="hellen-one-mcu-000.4" part="Module-mcu-0.4" description="Hellen One MCU Module"/>
+      <value>Module-mcu-0.5</value>
+      <footprint>hellen-one-mcu-0.5:mcu</footprint>
+      <libsource lib="hellen-one-mcu-000.5" part="Module-mcu-0.5" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2637,13 +2637,14 @@
       <tstamps>a1dbab38-ed65-4fa2-b170-67491f71fa40</tstamps>
     </comp>
     <comp ref="SW1">
-      <value>BOOT0</value>
+      <value>RESET</value>
       <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P-B</footprint>
       <fields>
         <field name="LCSC">	C231329</field>
       </fields>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <property name="LCSC" value="&#x9;C231329"/>
+      <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4264,12 +4265,12 @@
         <pin num="W2" name="VREF" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="hellen-one-mcu-000.4" part="Module-mcu-0.4">
+    <libpart lib="hellen-one-mcu-000.5" part="Module-mcu-0.5">
       <description>Hellen One MCU Module</description>
       <fields>
         <field name="Reference">M</field>
-        <field name="Value">Module-mcu-0.4</field>
-        <field name="Footprint">hellen-one-mcu-0.4:mcu</field>
+        <field name="Value">Module-mcu-0.5</field>
+        <field name="Footprint">hellen-one-mcu-0.5:mcu</field>
       </fields>
       <pins>
         <pin num="E1" name="SPI1_SCK" type="passive"/>
@@ -4680,8 +4681,8 @@
     <library logical="hellen-one-knock-0.1">
       <uri>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw/hellen-one/modules/knock/0.1/knock.kicad_sym</uri>
     </library>
-    <library logical="hellen-one-mcu-000.4">
-      <uri>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw/hellen-one/modules/mcu/0.4/mcu.kicad_sym</uri>
+    <library logical="hellen-one-mcu-000.5">
+      <uri>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw/hellen-one/modules/mcu/0.5/mcu.kicad_sym</uri>
     </library>
     <library logical="hellen-one-output-0.2">
       <uri>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw/hellen-one/modules/output/0.2/output.kicad_sym</uri>
