@@ -154,7 +154,7 @@
 "Module-knock-0.1","M8","hellen-one-knock-0.1:knock",""
 "Module-output-0.2","M9","hellen-one-output-0.2:output",""
 "Module-ign8-0.1","M10","hellen-one-ign8-0.1:ign8",""
-"Module-mcu-0.5","M11","hellen-one-mcu-0.5:mcu",""
+"Module-mcu144-0.5","M11","hellen-one-mcu-0.5:mcu",""
 "Module-knock-0.1","M12","hellen-one-knock-0.1:knock",""
 "MMCU","MMCU1","Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical",""
 "MMCU","MMCU2","Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical",""

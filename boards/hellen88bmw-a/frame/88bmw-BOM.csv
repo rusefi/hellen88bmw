@@ -154,7 +154,7 @@ Comment,Designator,Footprint,LCSC Part #
 "Module:knock/0.1","M8","knock",""
 "Module:output/0.2","M9","output",""
 "Module:ign8/0.1","M10","ign8",""
-"Module:mcu/0.5","M11","mcu",""
+"Module:mcu144/0.5","M11","mcu",""
 "Module:knock/0.1","M12","knock",""
 "MMCU","MMCU1","PinHeader_1x01_P1.00mm_Vertical",""
 "MMCU","MMCU2","PinHeader_1x01_P1.00mm_Vertical",""

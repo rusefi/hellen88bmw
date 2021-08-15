@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>14/08/2021 15:47:14</date>
+    <date>16/08/2021 02:06:57</date>
     <tool>Eeschema (5.99.0-11247-g3f6811f413)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1598,7 +1598,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>94097a52-d4b5-40ec-a345-93b4cc301991 34d58c46-36ae-4e63-a485-f4f38363ceab 07ae05fb-2427-4405-8cab-a0f62dcaccf0 03fee0f9-ae69-4e8c-b5b4-71cec51f2eec</tstamps>
+      <tstamps>07ae05fb-2427-4405-8cab-a0f62dcaccf0 94097a52-d4b5-40ec-a345-93b4cc301991 34d58c46-36ae-4e63-a485-f4f38363ceab 03fee0f9-ae69-4e8c-b5b4-71cec51f2eec</tstamps>
     </comp>
     <comp ref="M8">
       <value>Module-knock-0.1</value>
@@ -1616,7 +1616,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e2ce3460-65bf-44d9-803f-0d1fa4c8d415 974cf47d-4ee4-417c-96aa-1fb8e835958f 3a8d9d67-797b-4de1-888b-04d9923e9850</tstamps>
+      <tstamps>974cf47d-4ee4-417c-96aa-1fb8e835958f e2ce3460-65bf-44d9-803f-0d1fa4c8d415 3a8d9d67-797b-4de1-888b-04d9923e9850</tstamps>
     </comp>
     <comp ref="M10">
       <value>Module-ign8-0.1</value>
@@ -1628,7 +1628,7 @@
       <tstamps>0e968dcd-5249-4184-821f-b500bd5a00dd</tstamps>
     </comp>
     <comp ref="M11">
-      <value>Module-mcu-0.5</value>
+      <value>Module-mcu144-0.5</value>
       <footprint>hellen-one-mcu-0.5:mcu</footprint>
       <libsource lib="hellen-one-mcu-000.5" part="Module-mcu-0.5" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
