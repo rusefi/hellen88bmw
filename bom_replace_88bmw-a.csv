@@ -8,3 +8,10 @@ R105,
 # remove jumper resistor connecting BOOT1 with A22 input line, because we use STM32F4
 R131,
 
+# DC-DC Inductor
+L421,"MWSA0503S-100MT","SMD-5.2x5.4x2.8","C408412"
+L420,"NLV32T-2R2J-PF","1210","C89016"
+
+# JLC stock adjustments
+# STM32
+U105,"STM32F429ZGT6","LQFP144","C1337111"
