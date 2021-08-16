@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>16/08/2021 02:06:57</date>
+    <date>16/08/2021 18:22:55</date>
     <tool>Eeschema (5.99.0-11247-g3f6811f413)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -982,18 +982,26 @@
       <tstamps>f9a51391-3c59-4bae-bee1-245139f6aeaf</tstamps>
     </comp>
     <comp ref="J20">
-      <value>ETB_6p</value>
+      <value>ETB</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C343639</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C343639"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ec8636fb-8f33-480a-80a4-fe4e5c9ee953</tstamps>
     </comp>
     <comp ref="J21">
-      <value>ETB_4p</value>
+      <value>ETB</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C343639</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C343639"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
