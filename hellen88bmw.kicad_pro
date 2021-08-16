@@ -522,7 +522,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "../../../gerber/hellen88bmw.wrl"
+      "vrml": "gerber/hellen88bmw.wrl"
     },
     "page_layout_descr_file": ""
   },
