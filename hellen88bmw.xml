@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GoogleDrive\MSDLab\KiCad\freelance\rusEFIGIT\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>16/08/2021 18:22:55</date>
+    <date>17/08/2021 13:33:36</date>
     <tool>Eeschema (5.99.0-11247-g3f6811f413)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -145,10 +145,10 @@
       <value>5.6nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C295934</field>
+        <field name="LCSC">C115688</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="LCSC" value="C295934"/>
+      <property name="LCSC" value="C115688"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2474,10 +2474,10 @@
       <value>2k7</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C384349</field>
+        <field name="LCSC">C138017</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C384349"/>
+      <property name="LCSC" value="C138017"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2487,10 +2487,10 @@
       <value>2k7</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C384349</field>
+        <field name="LCSC">C138017</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C384349"/>
+      <property name="LCSC" value="C138017"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
