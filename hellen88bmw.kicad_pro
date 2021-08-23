@@ -390,8 +390,7 @@
         "microvia_drill": 0.1016,
         "name": "Analog_In",
         "nets": [
-          "/CAM",
-          "/GND_SENS"
+          "/CAM"
         ],
         "pcb_color": "rgb(0, 0, 0)",
         "schematic_color": "rgb(0, 0, 0)",
