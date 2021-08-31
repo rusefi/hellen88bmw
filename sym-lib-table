@@ -14,4 +14,5 @@
   (lib (name "hellen-one-can-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/can/0.1/can.kicad_sym")(options "")(descr ""))
   (lib (name "L6205PD")(type "KiCad")(uri "${KIPRJMOD}/footprints/L6205PD.kicad_sym")(options "")(descr ""))
   (lib (name "LIS2DW12TR")(type "KiCad")(uri "${KIPRJMOD}/footprints/LIS2DW12TR.kicad_sym")(options "")(descr ""))
+  (lib (name "ZXMS6005SGTA")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-private/ZXMS6005SGTA.kicad_sym")(options "")(descr ""))
 )
