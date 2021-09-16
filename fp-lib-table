@@ -15,5 +15,7 @@
   (lib (name "rusefi_lib_private")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-private/rusefi_lib_private.pretty")(options "")(descr ""))
   (lib (name "rusefi_lib")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/rusefi_lib.pretty")(options "")(descr ""))
   (lib (name "kicad6")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "hellen-one-common")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints")(options "")(descr ""))
+  (lib (name "hellen-one-sd-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/sd/0.1")(options "")(descr "Hellen-One microSD Card Module"))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints")(options "")(descr ""))
 )

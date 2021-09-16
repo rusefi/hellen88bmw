@@ -498,7 +498,6 @@
         "microvia_drill": 0.1524,
         "name": "Pwr",
         "nets": [
-          "/5V_SENS2",
           "GND"
         ],
         "pcb_color": "rgb(0, 0, 0)",
