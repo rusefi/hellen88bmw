@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.0,
-          "width": 3.0
+          "height": 1.2,
+          "width": 2.2
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -122,7 +122,9 @@
         0.4,
         0.8,
         1.0,
-        1.3,
+        1.2,
+        1.5,
+        2.0,
         3.0
       ],
       "via_dimensions": [
@@ -375,8 +377,8 @@
         "pcb_color": "rgb(0, 0, 0)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.6,
-        "via_diameter": 0.8128,
-        "via_drill": 0.4064,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -392,11 +394,11 @@
         "nets": [
           "/CAM"
         ],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.254,
-        "via_diameter": 0.8128,
-        "via_drill": 0.4064,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -410,16 +412,16 @@
         "microvia_drill": 0.1524,
         "name": "High_Side",
         "nets": [],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.3048,
-        "via_diameter": 1.27,
-        "via_drill": 0.635,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.200025,
+        "clearance": 0.8,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -433,13 +435,23 @@
           "/COIL_3",
           "/COIL_4",
           "/COIL_5",
-          "/COIL_6"
+          "/COIL_6",
+          "/COIL_7",
+          "/COIL_8",
+          "/HV_1",
+          "/HV_2",
+          "/HV_3",
+          "/HV_4",
+          "/HV_5",
+          "/HV_6",
+          "/HV_7",
+          "/HV_8"
         ],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
-        "track_width": 0.4572,
-        "via_diameter": 1.27,
-        "via_drill": 0.635,
+        "track_width": 1.0,
+        "via_diameter": 0.8,
+        "via_drill": 0.5,
         "wire_width": 6.0
       },
       {
@@ -460,11 +472,11 @@
           "/INJ5",
           "/INJ6"
         ],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.4572,
-        "via_diameter": 1.27,
-        "via_drill": 0.635,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -480,11 +492,11 @@
         "nets": [
           "/MAIN_RELAY"
         ],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.3048,
-        "via_diameter": 1.27,
-        "via_drill": 0.635,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -500,11 +512,11 @@
         "nets": [
           "GND"
         ],
-        "pcb_color": "rgb(0, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.4572,
-        "via_diameter": 1.27,
-        "via_drill": 0.635,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       }
     ],
