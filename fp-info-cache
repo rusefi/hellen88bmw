@@ -1,183 +1,85 @@
-42420509188318
-hellen-one-common
-36911600000
-36911600000-1
-Fuse
+19561563015509
+Connector_Card
+CF-Card_3M_N7E50-7516PK-20-WF
+Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
+connector cf
 0
-2
-2
-hellen-one-common
-178780-1
-
-
+54
+50
+Connector_Card
+SD_Kyocera_145638009211859+
+SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
+sd card smt
 0
-80
-76
-hellen-one-common
-C0603
-
-
+13
+13
+Connector_Card
+SD_Kyocera_145638009511859+
+SD Card Connector, Normal Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
+sd card smt
 0
-2
-2
-hellen-one-common
-C0805
-Capacitor SMD 0805
-
+13
+13
+Connector_Card
+SD_Kyocera_145638109211859+
+SD Card Connector, Reverse Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
+sd card smt
 0
-2
-2
-hellen-one-common
-Jack_3.5mm_PJ-3250-5A
-TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal circular
+13
+13
+Connector_Card
+SD_Kyocera_145638109511859+
+SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
+sd card smt
 0
-5
-5
-hellen-one-common
-LED-0603
-
-
-0
-2
-2
-hellen-one-common
-LED-0805
-
-
-0
-2
-2
-hellen-one-common
-LGA-12_2x2mm_P0.5mm
-LGA12
-lga land grid array
-0
-12
-12
-hellen-one-common
-LOGO
-
-
-0
-0
-0
-hellen-one-common
-Molex-39301020
-Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-02A2, example for new mpn: 39-30-0020, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
-connector Molex Mini-Fit_Jr top entryplastic_peg
-0
-2
-2
-hellen-one-common
-PAD-0805-PAD
-
-
-0
-4
-2
-hellen-one-common
-PAD-1206-PAD
-
-
-0
-4
-2
-hellen-one-common
-PAD-TH
-Through hole pad
-
-0
-1
-1
-hellen-one-common
-PROTO_AREA
-
-
+13
+13
+Connector_Card
+SD_TE_2041021
+SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
+sd card
 0
 15
-15
-hellen-one-common
-PinHeader_1x06_P2.54mm_Vertical
-Through hole straight pin header, 1x06, 2.54mm pitch, single row
-Through hole pin header THT 1x06 2.54mm single row
+12
+Connector_Card
+microSD_HC_Hirose_DM3AT-SF-PEJM5
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
 0
-6
-6
-hellen-one-common
-R0603
-
-
+14
+11
+Connector_Card
+microSD_HC_Hirose_DM3BT-DSF-PEJS
+Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
+Micro SD
 0
-2
-2
-hellen-one-common
-R0603-4
-
-
+16
+11
+Connector_Card
+microSD_HC_Hirose_DM3D-SF
+Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)
+Micro SD
 0
-8
-8
-hellen-one-common
-R0805
-
-
+14
+11
+Connector_Card
+microSD_HC_Molex_104031-0811
+1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
+microSD SD molex
 0
-2
-2
-hellen-one-common
-R1206
-
-
+14
+11
+Connector_Card
+microSD_HC_Wuerth_693072010801
+http://katalog.we-online.de/em/datasheet/693072010801.pdf
+Micro SD Wuerth Wurth Würth
 0
-2
-2
-hellen-one-common
-SMD-2_2.9x3.9x1.7
-
-
+12
+9
+Connector_Card
+microSIM_JAE_SF53S006VCBR2000
+https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf
+microSIM GSM Card
 0
-2
-2
-hellen-one-common
-SO20POWER
-PowerSO20
-
-0
-23
-23
-hellen-one-common
-SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-hellen-one-common
-SOD-323
-
-
-0
-2
-2
-hellen-one-common
-SOT23-6
-
-
-0
-6
-6
-hellen-one-common
-USB-MINI-B-VERTICAL
-http://www.tensility.com/pdffiles/54-00023.pdf
-usb mini receptacle vertical
-0
+14
 7
-6
-hellen-one-common
-USB_B
-USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
-USB-B receptacle horizontal through-hole
-0
-6
-5
