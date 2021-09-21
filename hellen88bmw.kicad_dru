@@ -13,3 +13,7 @@
 	(layer outer)
    (constraint clearance (min 2mm))
    (condition "A.Hole_Size_X > 4mm"))
+
+(rule "0.15gap"
+   (constraint clearance (min 0.15mm))
+   (condition "A.insideCourtyard('U3') || A.insideCourtyard('U4')"))
