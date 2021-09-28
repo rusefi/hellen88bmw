@@ -1,6 +1,5 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"BT1","BATTERY_CR2032","BatteryHolder_Keystone_1060_1x2032",-15.226000,34.123000,135.000000,bottom
-"M13","Module-sd-0.1","sd",-128.013499,1.232813,180.000000,bottom
+"BT1","BATTERY_CR2032","BatteryHolder_Keystone_1060_1x2032",15.226000,34.123000,135.000000,bottom
 "C1","100nF","C_0402_1005Metric",42.926000,25.273000,-90.000000,top
 "C2","100nF","C_0402_1005Metric",42.926000,27.273000,90.000000,top
 "C3","100nF","C_0402_1005Metric",98.426000,14.273000,0.000000,top
@@ -138,6 +137,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "M10","Module-ign8-0.1","ign8",127.426000,46.634854,180.000000,top
 "M11","Module-mcu144-0.5","mcu",116.776000,57.923000,180.000000,top
 "M12","Module-knock-0.1","knock",0.776001,39.310476,0.000000,top
+"M13","Module-sd-0.1","sd",128.013499,1.232813,180.000000,bottom
 "MMCU1","MMCU","PinHeader_1x01_P1.00mm_Vertical",133.526000,15.323000,90.000000,top
 "MMCU2","MMCU","PinHeader_1x01_P1.00mm_Vertical",135.526000,15.323000,90.000000,top
 "MMCU3","MMCU","PinHeader_1x01_P1.00mm_Vertical",129.526000,15.323000,90.000000,top
