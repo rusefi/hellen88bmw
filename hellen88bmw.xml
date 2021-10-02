@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>22/09/2021 00:00:56</date>
+    <date>02/10/2021 17:44:56</date>
     <tool>Eeschema (5.99.0-12439-g94954386e6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1888,13 +1888,13 @@
       <tstamps>98033df5-cc94-4d9f-bb2c-5df0b2c988f4</tstamps>
     </comp>
     <comp ref="M3">
-      <value>Module-wbo-0.2</value>
-      <footprint>hellen-one-wbo-0.2:wbo</footprint>
-      <libsource lib="hellen-one-wbo-0.2" part="Module-wbo-0.2" description=""/>
+      <value>Module-wbo-0.3</value>
+      <footprint>hellen-one-wbo-0.3:wbo</footprint>
+      <libsource lib="hellen-one-wbo-0.3" part="Module-wbo-0.3" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c145cecf-e6fb-4f01-91ef-f3fbeb476d3a</tstamps>
+      <tstamps>8f102ce2-a7ee-4380-a4d7-2d832c7c5a10</tstamps>
     </comp>
     <comp ref="M4">
       <value>Module-can-0.1</value>
@@ -4473,11 +4473,11 @@
         <pin num="W2" name="OUT_VR1" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="hellen-one-wbo-0.2" part="Module-wbo-0.2">
+    <libpart lib="hellen-one-wbo-0.3" part="Module-wbo-0.3">
       <fields>
         <field name="Reference">M</field>
-        <field name="Value">Module-wbo-0.2</field>
-        <field name="Footprint">hellen-one-wbo-0.2:wbo</field>
+        <field name="Value">Module-wbo-0.3</field>
+        <field name="Footprint">hellen-one-wbo-0.3:wbo</field>
       </fields>
       <pins>
         <pin num="E1" name="LSU_Un" type="passive"/>
@@ -4658,9 +4658,6 @@
     <library logical="hellen-one-knock-0.1">
       <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/knock/0.1/knock.kicad_sym</uri>
     </library>
-    <library logical="hellen-one-mcu-000.5">
-      <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/mcu/0.5/mcu.kicad_sym</uri>
-    </library>
     <library logical="hellen-one-output-0.2">
       <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/output/0.2/output.kicad_sym</uri>
     </library>
@@ -4676,8 +4673,8 @@
     <library logical="hellen-one-vr-0.1">
       <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/vr/0.1/vr.kicad_sym</uri>
     </library>
-    <library logical="hellen-one-wbo-0.2">
-      <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/wbo/0.2/wbo.kicad_sym</uri>
+    <library logical="hellen-one-wbo-0.3">
+      <uri>C:\Work\rusefi\github\hellen88bmw/hellen-one/modules/wbo/0.3/wbo.kicad_sym</uri>
     </library>
     <library logical="motronic_88pin_STS">
       <uri>C:\Work\rusefi\github\hellen88bmw/kicad-libraries-private/motronic_88pin_STS.lib</uri>

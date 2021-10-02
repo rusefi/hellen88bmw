@@ -152,7 +152,7 @@
 "IN_KNOCK2_RAW","KNOCK_RAW2","Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical",""
 "Module-power12-0.2","M1","hellen-one-power12-0.2:power12",""
 "Module-can-0.1","M2","hellen-one-can-0.1:can",""
-"Module-wbo-0.2","M3","hellen-one-wbo-0.2:wbo",""
+"Module-wbo-0.3","M3","hellen-one-wbo-0.3:wbo",""
 "Module-can-0.1","M4","hellen-one-can-0.1:can",""
 "Module-power5-0.2","M5","hellen-one-power5-0.2:power5",""
 "Module-vr-0.1","M6","hellen-one-vr-0.1:vr",""

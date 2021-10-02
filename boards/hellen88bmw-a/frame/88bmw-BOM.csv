@@ -152,7 +152,7 @@ Comment,Designator,Footprint,LCSC Part #
 "IN_KNOCK2_RAW","KNOCK_RAW2","PinHeader_1x01_P1.00mm_Vertical",""
 "Module:power12/0.2","M1","power12",""
 "Module:can/0.1","M2","can",""
-"Module:wbo/0.2","M3","wbo",""
+"Module:wbo/0.3","M3","wbo",""
 "Module:can/0.1","M4","can",""
 "Module:power5/0.2","M5","power5",""
 "Module:vr/0.1","M6","vr",""
