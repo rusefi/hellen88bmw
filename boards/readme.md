@@ -1,3 +1,3 @@
 4 layer
 
-x mm
+160 x 118 mm
