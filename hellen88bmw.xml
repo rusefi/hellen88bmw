@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>03/10/2021 00:26:02</date>
+    <date>05/10/2021 21:05:10</date>
     <tool>Eeschema (5.99.0-12439-g94954386e6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1743,10 +1743,11 @@
       <value>Jumper_2_Open</value>
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C182446</field>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
-      <property name="MyComment" value="DNP"/>
+      <property name="MyComment" value=""/>
+      <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1756,10 +1757,10 @@
       <value>Jumper_2_Open</value>
       <footprint>hellen-one-common:PAD-1206-PAD</footprint>
       <fields>
-        <field name="LCSC">C182446</field>
+        <field name="MyCooment">DNP</field>
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
-      <property name="LCSC" value="C182446"/>
+      <property name="MyCooment" value="DNP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1940,7 +1941,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>974cf47d-4ee4-417c-96aa-1fb8e835958f e2ce3460-65bf-44d9-803f-0d1fa4c8d415 3a8d9d67-797b-4de1-888b-04d9923e9850</tstamps>
+      <tstamps>e2ce3460-65bf-44d9-803f-0d1fa4c8d415 974cf47d-4ee4-417c-96aa-1fb8e835958f 3a8d9d67-797b-4de1-888b-04d9923e9850</tstamps>
     </comp>
     <comp ref="M10">
       <value>Module-ign8-0.1</value>
@@ -1958,7 +1959,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4bb09719-8233-4eff-b783-fe7b9cfa32e1 dac81d09-2272-472d-95eb-e6a2022d643a 619fe453-b8d5-43d8-92ff-5dae7989bbfb 42ac1216-7000-4a29-88d1-3cafdf3bfb7c</tstamps>
+      <tstamps>4bb09719-8233-4eff-b783-fe7b9cfa32e1 619fe453-b8d5-43d8-92ff-5dae7989bbfb dac81d09-2272-472d-95eb-e6a2022d643a 42ac1216-7000-4a29-88d1-3cafdf3bfb7c</tstamps>
     </comp>
     <comp ref="M12">
       <value>Module-knock-0.1</value>
@@ -2319,7 +2320,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f83acfe 00000000-0000-0000-0000-00005f844f8b 00000000-0000-0000-0000-00005f7b99ce</tstamps>
+      <tstamps>00000000-0000-0000-0000-00005f844f8b 00000000-0000-0000-0000-00005f83acfe 00000000-0000-0000-0000-00005f7b99ce</tstamps>
     </comp>
     <comp ref="Q1">
       <value>NGD8201AN</value>
