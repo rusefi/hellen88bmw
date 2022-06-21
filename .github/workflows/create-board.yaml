@@ -9,6 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
+          token: ${{ secrets.MY_REPO_PAT }}
           submodules: recursive
 
       - name: 1. Build Docker
