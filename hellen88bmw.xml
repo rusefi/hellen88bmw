@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\qwerty-off\Work\rusefi\github\hellen88bmw\hellen88bmw.kicad_sch</source>
-    <date>21.06.2022 11:37:18</date>
+    <date>23.06.2022 13:05:10</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1953,7 +1953,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>34d58c46-36ae-4e63-a485-f4f38363ceab 94097a52-d4b5-40ec-a345-93b4cc301991 07ae05fb-2427-4405-8cab-a0f62dcaccf0 03fee0f9-ae69-4e8c-b5b4-71cec51f2eec</tstamps>
+      <tstamps>94097a52-d4b5-40ec-a345-93b4cc301991 34d58c46-36ae-4e63-a485-f4f38363ceab 07ae05fb-2427-4405-8cab-a0f62dcaccf0 03fee0f9-ae69-4e8c-b5b4-71cec51f2eec</tstamps>
     </comp>
     <comp ref="M8">
       <value>Module-knock-0.1</value>
@@ -1983,13 +1983,13 @@
       <tstamps>6cbffb76-c85a-43f9-b859-e570395adb7a</tstamps>
     </comp>
     <comp ref="M11">
-      <value>Module-mcu-0.6</value>
+      <value>Module-mcu144-0.6</value>
       <footprint>hellen-one-mcu-0.6:mcu</footprint>
       <libsource lib="hellen-one-mcu-0.6" part="Module-mcu-0.6" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen88bmw.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4f4b9c60-b508-4905-9e7b-bc30ea466838 7fdc726d-9583-46f7-87d4-ecc994f408ad 5bea29f7-9491-4d90-9d24-601079515983 4a5ba710-59da-4d33-bf5b-90903381be28</tstamps>
+      <tstamps>7fdc726d-9583-46f7-87d4-ecc994f408ad 5bea29f7-9491-4d90-9d24-601079515983 4f4b9c60-b508-4905-9e7b-bc30ea466838 4a5ba710-59da-4d33-bf5b-90903381be28</tstamps>
     </comp>
     <comp ref="M12">
       <value>Module-knock-0.1</value>
