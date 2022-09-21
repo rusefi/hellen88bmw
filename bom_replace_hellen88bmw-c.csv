@@ -1,0 +1,71 @@
+# remove the jumper connection from VCC_PP1 to +5V: we need +12v power supply for push-pull outputs.
+R309,
+
+# remove +5V pull-ups from SPI1, because we use it with +3.3v accelerometer
+R103,
+R105,
+
+# remove jumper resistor connecting BOOT1 with A22 input line, because we use STM32F4
+R131,
+
+
+# STM32
+U105,"STM32F427ZGT6","LQFP144","C117816"
+
+#fuses
+F410,"nSMD050-24V","F1206","C70076"
+F300,"nSMD050-24V","F1206","C70076"
+JP54,"Fuse-5A-1206","F1206","C553924"
+JP56,"Fuse-5A-1206","F1206","C553924"
+F101,"nSMD035-16V","SMD1206","C70072"
+
+#pressure sensor
+U4,"LPS22HBTR","HLGA-10L","C94049"
+
+#accelerometer
+U3,"LIS2DH12TR","LGA-12","C110926"
+
+#ETB driver
+U6,"L6205PD","POWERSO20","C1523898"
+
+#power distribution
+U103,"AP2331W-7","SOT-23","C460346"
+
+# DC-DC Inductor
+L421,"MWSA0503S-100MT","SMD-5.2x5.4x2.8","C408412"
+
+#non-JLC components
+
+#INJ low-side
+Q305,
+Q306,
+Q307,
+Q308,
+Q309,
+Q310,
+Q311,
+Q312,
+Q9,
+Q10,
+
+#IGBT
+Q1,
+Q2,
+Q3,
+Q4,
+Q5,
+Q6,
+Q7,
+Q8,
+
+#WBO low-side
+Q600,
+Q601,
+
+#TLS115
+U7,
+
+#MAX9926
+U700,
+
+#include board_id_88bmw-b.csv
