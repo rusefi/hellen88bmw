@@ -16,6 +16,7 @@ jobs:
         run: |
           sudo add-apt-repository --yes ppa:kicad/kicad-7.0-releases
           sudo apt-get install kicad
+          pip install kicad-netlist-reader
 
       - name: Generate Gerber Files
         run: |
