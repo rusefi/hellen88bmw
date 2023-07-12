@@ -1,9 +1,9 @@
-name: Check All
+name: Create Board
 
 on: [ push, pull_request ]
 
 jobs:
-  build-firmware:
+  create-board:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,6 +14,16 @@ jobs:
 # https://stackoverflow.com/questions/72781712/how-to-add-private-git-repo-as-a-submodule-in-another-git-repo:
 #          token: ${{ secrets.MY_REPO_PAT }}
           submodules: recursive
+
+      - name: Install kicad
+        run: |
+          sudo add-apt-repository --yes ppa:kicad/kicad-7.0-releases
+          sudo apt-get install kicad
+          pip install kicad-netlist-reader
+
+      - name: Generate Gerber Files
+        run: |
+          bash hellen-one/kicad/bin/export.sh hellen88bmw
 
       - name: 1. Build Docker
         run: |
