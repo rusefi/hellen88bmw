@@ -34,7 +34,7 @@ jobs:
           bash hellen-one/bin/gha-commit.sh
 
       - name: Push board files
-        if: ${{env.NOCOMMIT != 'true'}}
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && env.NOCOMMIT != 'true'}}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
