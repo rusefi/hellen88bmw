@@ -9,7 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.MY_REPO_PAT }}
+# MY_REPO_PAT is about accessing private submodules
+# todo: how do we use same script both with and without MY_REPO_PAT? would two conditional versions of 'uses: actions/checkout@v2' be needed?
+# https://stackoverflow.com/questions/72781712/how-to-add-private-git-repo-as-a-submodule-in-another-git-repo:
+#          token: ${{ secrets.MY_REPO_PAT }}
           submodules: recursive
 
       - name: Install kicad
@@ -41,9 +44,8 @@ jobs:
           bash hellen-one/bin/gha-commit.sh
 
       - name: Push board files
-        if: ${{env.NOCOMMIT != 'true'}}
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && env.NOCOMMIT != 'true'}}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
           branch: ${{ steps.extract_branch.outputs.branch }}
-
