@@ -44,7 +44,8 @@ jobs:
           bash hellen-one/bin/gha-commit.sh
 
       - name: Push board files
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && env.NOCOMMIT != 'true'}}
+# let's support both newer 'main' and older 'master' repositories
+        if: ${{ github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && env.NOCOMMIT != 'true'}}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
