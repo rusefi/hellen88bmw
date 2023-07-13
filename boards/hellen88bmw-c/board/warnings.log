@@ -1,0 +1,9 @@
+* Warning! Footprint mismatch for the part #C2128: D_SOD-323 != SOD-323
+* Warning! Footprint mismatch for the part #C2128: SOD-323 != D_SOD-323
+* Warning! Footprint mismatch for the part #C2128: D_SOD-323 != SOD-323
+* Warning! Footprint mismatch for the part #C8598: D_SOD-123 != SOD-123
+* Warning! Footprint mismatch for the part #C1980: R_Array_Concave_4x0603 != R0603-4
+* Warning! Identical parts R604,R605,R613,R614,R618,R619,R625 and R1,R2,R29 (10k_R0402) have different partnumbers: C25744 and C60489
+* Warning! Identical parts R615,R621 and R28 (100k_R0402) have different partnumbers: C25741 and C106234
+* Warning! Identical parts C701 and C7,C8,C9,C11,C13,C14,C16,C17,C19,C21,C300 (10u_C0603) have different partnumbers: C19702 and C96446
+* Warning! Identical parts R101,R107,R108,R109,R110,R111,R112,R113,R115,R117,R118,R125,R126 and RN7,RN8,R200,R201,R202,R203,R204,R205,R207 (4.7k_R0603-4) have different partnumbers: C66697 and C1980
